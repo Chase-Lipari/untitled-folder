@@ -1,0 +1,16 @@
+{
+  "name": "web2-exercise1",
+  "version": "0.0.0",
+  "description": "Web2Exercise1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+		"test": "jest --verbose ./tests"
+	 },
+
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
